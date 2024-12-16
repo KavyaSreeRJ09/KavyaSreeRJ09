@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub!
 
-Hi there! I'm **Kavya Sree R J**, a passionate software developer with expertise in **Python, SQL, DSA,**, and **OOPS**. I enjoy building innovative projects that solve real-world problems, blending functionality with user-centric design.
+Hi there! I'm **Kavya Sree R J**, a passionate software developer with expertise in **Python, SQL, DSA,** and **OOPS**. I enjoy building innovative projects that solve real-world problems, blending functionality with user-centric design.
 
 ## 💡 What I Do:
 
