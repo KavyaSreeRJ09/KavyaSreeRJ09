@@ -2,6 +2,8 @@
 
 Hi there! I'm **Kavya Sree R J**, a passionate software developer with expertise in **Python, SQL, DSA,** and **OOPS**. I enjoy building innovative projects that solve real-world problems, blending functionality with user-centric design.
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KavyaSreeRJ09)
+
 ## 💡 What I Do:
 
 - Design and develop **web** and **mobile applications** using modern frameworks.
